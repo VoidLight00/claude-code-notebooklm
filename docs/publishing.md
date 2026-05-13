@@ -13,7 +13,7 @@ git commit -m "docs: add Claude Code NotebookLM automation package"
 ## 2. GitHub 원격 연결
 
 ```bash
-git remote add origin git@github.com:YOUR-USERNAME/claude-code-notebooklm.git
+git remote add origin git@github.com:VoidLight00/claude-code-notebooklm.git
 git branch -M main
 git push -u origin main
 ```
@@ -23,7 +23,7 @@ git push -u origin main
 `README.md`의 아래 부분을 실제 GitHub 사용자명으로 바꾸세요.
 
 ```text
-https://github.com/YOUR-USERNAME/claude-code-notebooklm.git
+https://github.com/VoidLight00/claude-code-notebooklm.git
 ```
 
 ## 4. 민감 정보 확인
@@ -39,7 +39,7 @@ grep -R "NOTEBOOKLM_AUTH_JSON\|storage_state\|SID\|HSID\|SSID\|APISID\|SAPISID" 
 새 폴더에서 테스트합니다.
 
 ```bash
-git clone git@github.com:YOUR-USERNAME/claude-code-notebooklm.git /tmp/claude-code-notebooklm-test
+git clone git@github.com:VoidLight00/claude-code-notebooklm.git /tmp/claude-code-notebooklm-test
 cd /tmp/claude-code-notebooklm-test
 ./scripts/install.sh
 ./scripts/verify.sh

@@ -83,7 +83,7 @@ CLAUDE_SKILLS_DIR="$HOME/.claude/skills/notebooklm-custom" ./scripts/install.sh
 팀원이 각자 설치해야 합니다.
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/claude-code-notebooklm.git
+git clone https://github.com/VoidLight00/claude-code-notebooklm.git
 cd claude-code-notebooklm
 ./scripts/install.sh
 notebooklm login

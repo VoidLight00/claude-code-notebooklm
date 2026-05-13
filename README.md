@@ -39,7 +39,7 @@ claude --version
 ### 2. 이 레포 받기
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/claude-code-notebooklm.git
+git clone https://github.com/VoidLight00/claude-code-notebooklm.git
 cd claude-code-notebooklm
 ```
 

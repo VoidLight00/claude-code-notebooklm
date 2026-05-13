@@ -53,7 +53,7 @@ claude --version
 Git을 사용할 수 있다면:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/claude-code-notebooklm.git
+git clone https://github.com/VoidLight00/claude-code-notebooklm.git
 cd claude-code-notebooklm
 ```
 
