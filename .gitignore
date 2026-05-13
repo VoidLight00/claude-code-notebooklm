@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# NotebookLM local auth and outputs
+.notebooklm/
+notebooklm/
+storage_state.json
+*.auth.json
+
+# OS/editor
+.DS_Store
+.vscode/
+.idea/
+
+# Generated diagnostics
+*.log
